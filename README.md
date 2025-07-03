@@ -65,15 +65,16 @@
 
 ## 📷 Screenshots
 
-**BlynkIoT web dashboard preview**: https://drive.google.com/file/d/1MVgZZL5Iw0zh-LKsikmQAHMPViJ_GD7_/view?usp=sharing
-**Project Starting Window**: https://drive.google.com/file/d/1MUbsbcyA1h2feIOtM783kbrk_5oaiDjG/view?usp=sharing
-**Project Working Preview**: https://drive.google.com/file/d/1M_3U7pZ8uDO2F8KU9MwZcXpOBIW87lV4/view?usp=drive_link
+#### **BlynkIoT web dashboard preview**: https://drive.google.com/file/d/1MVgZZL5Iw0zh-LKsikmQAHMPViJ_GD7_/view?usp=sharing
+#### **Project Starting Window**: https://drive.google.com/file/d/1MUbsbcyA1h2feIOtM783kbrk_5oaiDjG/view?usp=sharing
+#### **Project Working Preview**: https://drive.google.com/file/d/1M_3U7pZ8uDO2F8KU9MwZcXpOBIW87lV4/view?usp=drive_link
 
 ---
 
 ## 👨‍💻 Developed By
 
-Harsh Vardhan Saini
-
+#### **Name**: Harsh Vardhan Saini
+#### **Email**: hvardhnaharsh07@gmail.com 
+#### **GitHub**: https://github.com/Cat-sauce
 ---
 
